@@ -1,2 +1,2 @@
-# Tower-Astrolog
+# towerastrolog
 Звёзды укажут путь.
