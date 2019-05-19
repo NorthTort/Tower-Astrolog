@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "1.0.0",
-  "main": "Башня Астролога.js",
+  "main": "towerastrolog.js",
   "scripts": {
-    "start": "node Башня Астролога.js"
+    "start": "node towerastrolog.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
