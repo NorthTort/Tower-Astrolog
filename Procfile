@@ -1,1 +1,1 @@
-worker: node Башня Астролога.js
+worker: node towerastrolog.js
